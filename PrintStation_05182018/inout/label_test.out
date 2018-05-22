@@ -1,0 +1,10 @@
+[Outputs]
+Status=0
+ReturnCode=0
+Message=
+Headers=NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Values=NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LowLimit=NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UpLimit=NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+TargetLimit=NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VarResultSummary=
